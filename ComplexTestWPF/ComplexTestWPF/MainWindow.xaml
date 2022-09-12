@@ -1,0 +1,30 @@
+﻿<Window x:Class="ComplexTestWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComplexTestWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="301" Width="622">
+    <Grid>
+
+        <Button x:Name="ButPlus"  Click="ButPlusClick" Content="+" HorizontalAlignment="Left" Margin="298,108,0,0" VerticalAlignment="Top" Width="20"/>
+        <Button x:Name="ButMinus"  Click="ButMinusClick" Content="-" HorizontalAlignment="Left" Margin="298,83,0,0" VerticalAlignment="Top" Width="20"/>
+        <Button x:Name="ButMulti"  Click="ButMultiClick" Content="*" HorizontalAlignment="Left" Margin="273,108,0,0" VerticalAlignment="Top" Width="20"/>
+        <Button x:Name="ButDell"  Click="ButDellClick" Content="/" HorizontalAlignment="Left" Margin="273,83,0,0" VerticalAlignment="Top" Width="20"/>
+        <Button x:Name="ButPrint"  Click="ButPrintClick" Content="Вывести два комплексных числа на экран" HorizontalAlignment="Left" Margin="136,159,0,0" VerticalAlignment="Top" Width="323"/>
+
+        <TextBox x:Name="FirstA" HorizontalAlignment="Left"  Margin="136,83,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="FirstB" HorizontalAlignment="Left"  Margin="136,110,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+
+        <TextBox x:Name="SecondA" HorizontalAlignment="Left"  Margin="339,83,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="SecondB" HorizontalAlignment="Left"  Margin="339,110,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Label Content="Первое комплексное число" HorizontalAlignment="Left" Margin="115,45,0,0" VerticalAlignment="Top" Width="168"/>
+        <Label Content="Второе комплексное число" HorizontalAlignment="Left" Margin="315,45,0,0" VerticalAlignment="Top" Width="168"/>
+        <Label Content="Вещественная часть " HorizontalAlignment="Left" Margin="10,77,0,0" VerticalAlignment="Top"/>
+        <Label Content="Мнимая часть " HorizontalAlignment="Left" Margin="10,108,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LabResult" Content="" HorizontalAlignment="Left" Margin="515,93,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>
