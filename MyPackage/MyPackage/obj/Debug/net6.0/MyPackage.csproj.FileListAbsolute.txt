@@ -1,0 +1,12 @@
+D:\VS_PROJECTS\MyPackage\MyPackage\obj\Debug\net6.0\MyPackage.csproj.AssemblyReference.cache
+D:\VS_PROJECTS\MyPackage\MyPackage\obj\Debug\net6.0\MyPackage.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_PROJECTS\MyPackage\MyPackage\obj\Debug\net6.0\MyPackage.AssemblyInfoInputs.cache
+D:\VS_PROJECTS\MyPackage\MyPackage\obj\Debug\net6.0\MyPackage.AssemblyInfo.cs
+D:\VS_PROJECTS\MyPackage\MyPackage\obj\Debug\net6.0\MyPackage.csproj.CoreCompileInputs.cache
+D:\VS_PROJECTS\MyPackage\MyPackage\bin\Debug\net6.0\MyPackage.deps.json
+D:\VS_PROJECTS\MyPackage\MyPackage\bin\Debug\net6.0\MyPackage.dll
+D:\VS_PROJECTS\MyPackage\MyPackage\bin\Debug\net6.0\MyPackage.pdb
+D:\VS_PROJECTS\MyPackage\MyPackage\obj\Debug\net6.0\MyPackage.dll
+D:\VS_PROJECTS\MyPackage\MyPackage\obj\Debug\net6.0\refint\MyPackage.dll
+D:\VS_PROJECTS\MyPackage\MyPackage\obj\Debug\net6.0\MyPackage.pdb
+D:\VS_PROJECTS\MyPackage\MyPackage\obj\Debug\net6.0\ref\MyPackage.dll

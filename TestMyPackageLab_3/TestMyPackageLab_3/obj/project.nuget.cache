@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iLnbUtOVjH7fiXfacSXd6honWqJctwkyzvAhuIWWC6MuQ3RFwfLpM8P091+z3ittnjxw52VK0RDL/TDr0Pww9g==",
+  "success": true,
+  "projectFilePath": "D:\\VS_PROJECTS\\TestMyPackageLab_3\\TestMyPackageLab_3\\TestMyPackageLab_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egor\\.nuget\\packages\\myfirstpackageeeeeeeeee\\1.0.0\\myfirstpackageeeeeeeeee.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

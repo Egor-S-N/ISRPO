@@ -1,0 +1,17 @@
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\bin\Debug\net6.0\TestMyPackageLab_3.exe
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\bin\Debug\net6.0\TestMyPackageLab_3.deps.json
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\bin\Debug\net6.0\TestMyPackageLab_3.runtimeconfig.json
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\bin\Debug\net6.0\TestMyPackageLab_3.dll
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\bin\Debug\net6.0\TestMyPackageLab_3.pdb
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\obj\Debug\net6.0\TestMyPackageLab_3.csproj.AssemblyReference.cache
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\obj\Debug\net6.0\TestMyPackageLab_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\obj\Debug\net6.0\TestMyPackageLab_3.AssemblyInfoInputs.cache
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\obj\Debug\net6.0\TestMyPackageLab_3.AssemblyInfo.cs
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\obj\Debug\net6.0\TestMyPackageLab_3.csproj.CoreCompileInputs.cache
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\obj\Debug\net6.0\TestMyPackageLab_3.dll
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\obj\Debug\net6.0\refint\TestMyPackageLab_3.dll
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\obj\Debug\net6.0\TestMyPackageLab_3.pdb
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\obj\Debug\net6.0\TestMyPackageLab_3.genruntimeconfig.cache
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\obj\Debug\net6.0\ref\TestMyPackageLab_3.dll
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\bin\Debug\net6.0\MyPackage.dll
+D:\VS_PROJECTS\TestMyPackageLab_3\TestMyPackageLab_3\obj\Debug\net6.0\TestMyPackageLab_3.csproj.CopyComplete
