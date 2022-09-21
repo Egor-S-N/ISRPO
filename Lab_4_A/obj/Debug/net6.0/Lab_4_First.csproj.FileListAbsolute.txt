@@ -1,0 +1,15 @@
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\bin\Debug\net6.0\Lab_4_First.exe
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\bin\Debug\net6.0\Lab_4_First.deps.json
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\bin\Debug\net6.0\Lab_4_First.runtimeconfig.json
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\bin\Debug\net6.0\Lab_4_First.dll
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\bin\Debug\net6.0\Lab_4_First.pdb
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\obj\Debug\net6.0\Lab_4_First.csproj.AssemblyReference.cache
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\obj\Debug\net6.0\Lab_4_First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\obj\Debug\net6.0\Lab_4_First.AssemblyInfoInputs.cache
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\obj\Debug\net6.0\Lab_4_First.AssemblyInfo.cs
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\obj\Debug\net6.0\Lab_4_First.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\obj\Debug\net6.0\Lab_4_First.dll
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\obj\Debug\net6.0\refint\Lab_4_First.dll
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\obj\Debug\net6.0\Lab_4_First.pdb
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\obj\Debug\net6.0\Lab_4_First.genruntimeconfig.cache
+C:\Users\Egor\Desktop\Lab_4\Lab_4_First\obj\Debug\net6.0\ref\Lab_4_First.dll

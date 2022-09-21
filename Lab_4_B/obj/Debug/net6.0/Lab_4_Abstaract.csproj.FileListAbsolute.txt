@@ -1,0 +1,15 @@
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\bin\Debug\net6.0\Lab_4_Abstaract.exe
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\bin\Debug\net6.0\Lab_4_Abstaract.deps.json
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\bin\Debug\net6.0\Lab_4_Abstaract.runtimeconfig.json
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\bin\Debug\net6.0\Lab_4_Abstaract.dll
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\bin\Debug\net6.0\Lab_4_Abstaract.pdb
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\obj\Debug\net6.0\Lab_4_Abstaract.csproj.AssemblyReference.cache
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\obj\Debug\net6.0\Lab_4_Abstaract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\obj\Debug\net6.0\Lab_4_Abstaract.AssemblyInfoInputs.cache
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\obj\Debug\net6.0\Lab_4_Abstaract.AssemblyInfo.cs
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\obj\Debug\net6.0\Lab_4_Abstaract.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\obj\Debug\net6.0\Lab_4_Abstaract.dll
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\obj\Debug\net6.0\refint\Lab_4_Abstaract.dll
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\obj\Debug\net6.0\Lab_4_Abstaract.pdb
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\obj\Debug\net6.0\Lab_4_Abstaract.genruntimeconfig.cache
+C:\Users\Egor\Desktop\Lab_4\Lab_4_Abstaract\obj\Debug\net6.0\ref\Lab_4_Abstaract.dll
