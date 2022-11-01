@@ -1,0 +1,15 @@
+D:\VS_PROJECTS\Lab_6BConsole\bin\Debug\net6.0\Lab_6BConsole.exe
+D:\VS_PROJECTS\Lab_6BConsole\bin\Debug\net6.0\Lab_6BConsole.deps.json
+D:\VS_PROJECTS\Lab_6BConsole\bin\Debug\net6.0\Lab_6BConsole.runtimeconfig.json
+D:\VS_PROJECTS\Lab_6BConsole\bin\Debug\net6.0\Lab_6BConsole.dll
+D:\VS_PROJECTS\Lab_6BConsole\bin\Debug\net6.0\Lab_6BConsole.pdb
+D:\VS_PROJECTS\Lab_6BConsole\obj\Debug\net6.0\Lab_6BConsole.csproj.AssemblyReference.cache
+D:\VS_PROJECTS\Lab_6BConsole\obj\Debug\net6.0\Lab_6BConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_PROJECTS\Lab_6BConsole\obj\Debug\net6.0\Lab_6BConsole.AssemblyInfoInputs.cache
+D:\VS_PROJECTS\Lab_6BConsole\obj\Debug\net6.0\Lab_6BConsole.AssemblyInfo.cs
+D:\VS_PROJECTS\Lab_6BConsole\obj\Debug\net6.0\Lab_6BConsole.csproj.CoreCompileInputs.cache
+D:\VS_PROJECTS\Lab_6BConsole\obj\Debug\net6.0\Lab_6BConsole.dll
+D:\VS_PROJECTS\Lab_6BConsole\obj\Debug\net6.0\refint\Lab_6BConsole.dll
+D:\VS_PROJECTS\Lab_6BConsole\obj\Debug\net6.0\Lab_6BConsole.pdb
+D:\VS_PROJECTS\Lab_6BConsole\obj\Debug\net6.0\Lab_6BConsole.genruntimeconfig.cache
+D:\VS_PROJECTS\Lab_6BConsole\obj\Debug\net6.0\ref\Lab_6BConsole.dll
